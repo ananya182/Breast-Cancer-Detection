@@ -10,3 +10,5 @@ the regions contributing to their predictions. To bridge this gap and foster tru
 it becomes imperative for models to not only classify but also localize cancerous regions within the
 mammograms. Object detection emerges as a viable solution to this problem, allowing models to
 draw bounding boxes around areas indicative of tumors.
+
+In this project, I have trained a deep neural network for object detection in breast cancer screening. 
